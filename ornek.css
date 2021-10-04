@@ -1,0 +1,10 @@
+.rektorluk{
+    margin: 50px;
+    padding: 50px;
+}
+.cerceve{
+    width: 200px;
+	height: 200px;
+
+	border:4px dashed #000;
+}
